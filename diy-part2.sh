@@ -19,5 +19,5 @@
 # Modify hostname
 #sed -i 's/OpenWrt/P3TERX-Router/g' package/base-files/files/bin/config_generate
 git clone https://github.com/sirpdboy/luci-app-advanced package/luci-app-advanced
-git clone https://github.com/ntlf9t/luci-app-easymesh package/luci-app-easymesh
-git clone https://github.com/zxl78585/luci-app-autoreboot.git package/luci-app-autoreboot
+# git clone https://github.com/ntlf9t/luci-app-easymesh package/luci-app-easymesh
+# git clone https://github.com/zxl78585/luci-app-autoreboot.git package/luci-app-autoreboot
